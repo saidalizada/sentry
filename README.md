@@ -30,7 +30,7 @@
    ```sh
    flask run
 
-Access http://localhost:5000 in your browser to trigger the exception.
+    Access http://localhost:5000 in your browser to trigger the exception.
 
 3. **Monitor with Sentry:**
 
